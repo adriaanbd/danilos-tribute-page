@@ -1,0 +1,49 @@
+html, body {
+    background: rgb(170, 165, 165);
+    text-align: center;
+  }
+
+#title {
+
+  justify-content: center;
+  margin: auto;
+}
+
+#sub-title {
+  margin: auto;
+}
+
+#main {
+  margin: 30px auto;
+  padding:15px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  background: #eee;
+}
+
+img{
+  max-width: 100%; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin: -5px;
+  width: 100%;
+  border: 5px solid #eee;
+  
+}
+
+ul {
+  max-width: 550px;
+  margin: auto;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
+}
+
+blockquote {
+  font-style: italic;
+}
